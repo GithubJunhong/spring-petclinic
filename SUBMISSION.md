@@ -21,9 +21,9 @@ Junhong Chen 2023803
   ![Screen Capture #09](images/8.png)
 -  DOCKER COMPOSE - APP SERVER AND MYSQL
 - [5 pts]Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture.
-  ![Screen Capture #07](images/08.png)
+  [docker-compose.yml](docker-compose.yml) 
 - [5 pts]Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
-  ![Screen Capture #08](images/09.png)
+  [application-mysql.properties](src/main/resources/application-mysql.properties)
 - [5 pts]The output from the docker-compose up command.
   ![Screen Capture #09](images/10.png)
 - [5 pts]Your browser accessing the “Veterinarians” page of the website from your local container.
