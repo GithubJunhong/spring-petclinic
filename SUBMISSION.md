@@ -2,23 +2,31 @@
 Junhong Chen 2023803
 
 # Deliverables 
-- [5 pts]Your GitHub Actions dashboard showing a successful first build
+- DOCKER
+- [5 pts]Your dockerfile. Please provide a link to this file rather than a screen capture.
   ![Screen Capture #01](images/02.png)
-- [5 pts]Your GitHub repository with the readme.md file selected showing the code that you changed to update the badge.
-  ![Screen Capture #02](images/03.png)
-- [5 pts]Your GitHub repository with the readme.md file selected showing the build success status after you’ve updated the badge markdown.
-  ![Screen Capture #03](images/04.png)
-- [5 pts]The section of the POM file showing the coordinates after you’ve commented them out.
-  ![Screen Capture #04](images/05.png)
-- [5 pts]Your GitHub Actions dashboard showing the unsuccessful build after the breaking change.
-  ![Screen Capture #05](images/06.png)
-- [5 pts]Your GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails.
-  ![Screen Capture #06](images/07.png)
-- [5 pts]The section of the POM file showing the coordinates after you’ve fixed them.
+- [5 pts]Your running docker instance as shown by a ps command.
+  ![Screen Capture #02](images/1.png)
+- [5 pts]Your browser accessing the main page of the website from your local container.
+  ![Screen Capture #03](images/2.png)
+-  DOCKER COMPOSE - MYSQL ONLY
+- [5 pts]The output from the docker-compose up command.
+  ![Screen Capture #04](images/3.png)
+  ![Screen Capture #05](images/4.png)
+- [5 pts]Your browser accessing the “Veterinarians” page of the website from your local container when you run the application from the host system.
+  ![Screen Capture #06](images/5.png)
+- [5 pts]A section of the stack trace generated when you attempt to run the application container that has been updated to use MySQL.
+  ![Screen Capture #07](images/6.png)
+  ![Screen Capture #08](images/7.png)
+  ![Screen Capture #09](images/8.png)
+-  DOCKER COMPOSE - APP SERVER AND MYSQL
+- [5 pts]Your updated docker-compose.yml file containing the application server, built from your local Dockerfile, and the existing MySQL configuration. Please provide a link to this file rather than a screen capture.
   ![Screen Capture #07](images/08.png)
-- [5 pts]Your GitHub Actions dashboard showing the successful build after the breaking change has been fixed.
+- [5 pts]Your updated application-mysql.properties file containing the URL change for the database server. Please provide a link to this file rather than a screen capture.
   ![Screen Capture #08](images/09.png)
-- [5 pts]Your GitHub repository with the readme.md file selected showing the build success status after the GitHub workflow has recovered.
+- [5 pts]The output from the docker-compose up command.
   ![Screen Capture #09](images/10.png)
+- [5 pts]Your browser accessing the “Veterinarians” page of the website from your local container.
+  ![Screen Capture #10](images/11.png)
 
 
